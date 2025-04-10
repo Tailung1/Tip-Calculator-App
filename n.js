@@ -9,7 +9,6 @@
 // let percetValue=0;
 // let peopleValue=0;
 
-
 // billInput.addEventListener("input", (event)=> {
 //     billValue=event.target.value
 //     calculator()
@@ -41,7 +40,6 @@
 // // let helper2=document.createElement('p')
 // // helper2.textContent='Please enter Number greater than 0'
 // // helper2.style.cssText='color:green';
-
 
 // function calculator() {
 //     const tipResultValue=billValue * (percetValue / 100) / peopleValue
