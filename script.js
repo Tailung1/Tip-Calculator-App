@@ -17,6 +17,7 @@ function createAlert(alertMessage, color = "red") {
 }
 let currentAlert = null;
 
+
 billInput.addEventListener("input", (event) => {
   if (!isNaN(event.target.value) && event.target.value !== "") {
     billValue = parseFloat(event.target.value);
